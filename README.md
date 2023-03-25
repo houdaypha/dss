@@ -5,7 +5,6 @@
 ## Running the application with sbt
 * Run the store file actor
 ```bash
-```bash
 sbt "runMain com.dss.project.StoreFileApplication" 
 ```
 * Run the key value store actor
